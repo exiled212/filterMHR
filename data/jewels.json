@@ -1,0 +1,507 @@
+[
+    {
+       "skill_name":"Attack Boost",
+       "name":"Attack Jewel 2",
+       "es":"Joya de ataque 2"
+    },
+    {
+       "skill_name":"Agitator",
+       "name":"Challenger Jewel 2",
+       "es":""
+    },
+    {
+       "skill_name":"Peak Performance",
+       "name":"Flawless Jewel 2",
+       "es":""
+    },
+    {
+       "skill_name":"Resentment",
+       "name":"Furor Jewel 2",
+       "es":""
+    },
+    {
+       "skill_name":"Resuscitate",
+       "name":"Crisis Jewel 2",
+       "es":""
+    },
+    {
+       "skill_name":"Critical Eye",
+       "name":"Expert Jewel 2",
+       "es":""
+    },
+    {
+       "skill_name":"Critical Boost",
+       "name":"Critical Jewel 2",
+       "es":""
+    },
+    {
+       "skill_name":"Weakness Exploit",
+       "name":"Tenderizer Jewel 2",
+       "es":""
+    },
+    {
+       "skill_name":"Latent Power",
+       "name":"Throttle Jewel 2",
+       "es":""
+    },
+    {
+       "skill_name":"Maximum Might",
+       "name":"Mighty Jewel 2",
+       "es":""
+    },
+    {
+       "skill_name":"Critical Element",
+       "name":"Crit Element Jewel 2",
+       "es":""
+    },
+    {
+       "skill_name":"Masters Touch",
+       "name":"Mastery Jewel 2",
+       "es":""
+    },
+    {
+       "skill_name":"Fire Attack",
+       "name":"Blaze Jewel 1",
+       "es":""
+    },
+    {
+       "skill_name":"Water Attack",
+       "name":"Stream Jewel 1",
+       "es":""
+    },
+    {
+       "skill_name":"Ice Attack",
+       "name":"Frost Jewel 1",
+       "es":""
+    },
+    {
+       "skill_name":"Thunder Attack",
+       "name":"Bolt Jewel 1",
+       "es":""
+    },
+    {
+       "skill_name":"Dragon Attack",
+       "name":"Dragon Jewel 1",
+       "es":""
+    },
+    {
+       "skill_name":"Poison Attack",
+       "name":"Venom Jewel 1",
+       "es":""
+    },
+    {
+       "skill_name":"Paralysis Attack",
+       "name":"Paralyzer Jewel 2",
+       "es":""
+    },
+    {
+       "skill_name":"Sleep Attack",
+       "name":"Sleep Jewel 2",
+       "es":""
+    },
+    {
+       "skill_name":"Blast Attack",
+       "name":"Blast Jewel 2",
+       "es":""
+    },
+    {
+       "skill_name":"Handicraft",
+       "name":"Handicraft Jewel 3",
+       "es":""
+    },
+    {
+       "skill_name":"Razor Sharp",
+       "name":"Razor Jewel 2",
+       "es":""
+    },
+    {
+       "skill_name":"Spare Shot",
+       "name":"Thrift Jewel 2",
+       "es":""
+    },
+    {
+       "skill_name":"Protective Polish",
+       "name":"Sharp Jewel 2",
+       "es":""
+    },
+    {
+       "skill_name":"Minds Eye",
+       "name":"Minds Eye Jewel 2",
+       "es":""
+    },
+    {
+       "skill_name":"Ballistics",
+       "name":"Precise Jewel 2",
+       "es":""
+    },
+    {
+       "skill_name":"Bludgeoner",
+       "name":"Blunt Jewel 2",
+       "es":""
+    },
+    {
+       "skill_name":"Focus",
+       "name":"Charger Jewel 2",
+       "es":""
+    },
+    {
+       "skill_name":"Power Prolonger",
+       "name":"Enhancer Jewel 2",
+       "es":""
+    },
+    {
+       "skill_name":"Marathon Runner",
+       "name":"Sprinter Jewel 2",
+       "es":""
+    },
+    {
+       "skill_name":"Constitution",
+       "name":"Physique Jewel 2",
+       "es":""
+    },
+    {
+       "skill_name":"Stamina Surge",
+       "name":"Refresh Jewel 2",
+       "es":""
+    },
+    {
+       "skill_name":"Guard",
+       "name":"Ironwall Jewel 2",
+       "es":""
+    },
+    {
+       "skill_name":"Guard Up",
+       "name":"Shield Jewel 2",
+       "es":""
+    },
+    {
+       "skill_name":"Offensive Guard",
+       "name":"Guardian Jewel 3",
+       "es":""
+    },
+    {
+       "skill_name":"Critical Draw",
+       "name":"Draw Jewel 3",
+       "es":""
+    },
+    {
+       "skill_name":"Punishing Draw",
+       "name":"Gambit Jewel 2",
+       "es":""
+    },
+    {
+       "skill_name":"Quick Sheathe",
+       "name":"Sheath Jewel 2",
+       "es":""
+    },
+    {
+       "skill_name":"Slugger",
+       "name":"KO Jewel 2",
+       "es":""
+    },
+    {
+       "skill_name":"Stamina Thief",
+       "name":"Drain Jewel 1",
+       "es":""
+    },
+    {
+       "skill_name":"Affinity Sliding",
+       "name":"Slider Jewel 1",
+       "es":""
+    },
+    {
+       "skill_name":"Horn Maestro",
+       "name":"Sonorous Jewel 1",
+       "es":""
+    },
+    {
+       "skill_name":"Artillery",
+       "name":"Artillery Jewel 2",
+       "es":""
+    },
+    {
+       "skill_name":"Load Shells",
+       "name":"Magazine Jewel 2",
+       "es":""
+    },
+    {
+       "skill_name":"Special Ammo Boost",
+       "name":"Trueshot Jewel 2",
+       "es":""
+    },
+    {
+       "skill_name":"Normal/Rapid Up",
+       "name":"Forceshot Jewel 3",
+       "es":""
+    },
+    {
+       "skill_name":"Pierce Up",
+       "name":"Pierce Jewel 3",
+       "es":""
+    },
+    {
+       "skill_name":"Spread Up",
+       "name":"Spread Jewel 3",
+       "es":""
+    },
+    {
+       "skill_name":"Ammo Up",
+       "name":"Capacity Jewel 3",
+       "es":""
+    },
+    {
+       "skill_name":"Reload Speed",
+       "name":"Quickload Jewel 1",
+       "es":""
+    },
+    {
+       "skill_name":"Recoil Down",
+       "name":"Absorber Jewel 1",
+       "es":""
+    },
+    {
+       "skill_name":"Steadiness",
+       "name":"Sniper Jewel 1",
+       "es":""
+    },
+    {
+       "skill_name":"Rapid Fire Up",
+       "name":"Salvo Jewel 3",
+       "es":""
+    },
+    {
+       "skill_name":"Defense Boost",
+       "name":"Defense Jewel 1",
+       "es":""
+    },
+    {
+       "skill_name":"Divine Blessing",
+       "name":"Protection Jewel 2",
+       "es":""
+    },
+    {
+       "skill_name":"Recovery Up",
+       "name":"Medicine Jewel 2",
+       "es":""
+    },
+    {
+       "skill_name":"Recovery Speed",
+       "name":"Recovery Jewel 1",
+       "es":""
+    },
+    {
+       "skill_name":"Speed Eating",
+       "name":"Gobbler Jewel 2",
+       "es":""
+    },
+    {
+       "skill_name":"Earplugs",
+       "name":"Earplug Jewel 3",
+       "es":""
+    },
+    {
+       "skill_name":"Windproof",
+       "name":"Wind Res Jewel 1",
+       "es":""
+    },
+    {
+       "skill_name":"Tremor Resistance",
+       "name":"Footing Jewel 2",
+       "es":""
+    },
+    {
+       "skill_name":"Bubbly Dance",
+       "name":"Bubble Jewel 2",
+       "es":""
+    },
+    {
+       "skill_name":"Evade Window",
+       "name":"Evasion Jewel 2",
+       "es":""
+    },
+    {
+       "skill_name":"Evade Extender",
+       "name":"Jumping Jewel 2",
+       "es":""
+    },
+    {
+       "skill_name":"Fire Resistance",
+       "name":"Fire Res Jewel 1",
+       "es":""
+    },
+    {
+       "skill_name":"Water Resistance",
+       "name":"Water Res Jewel 1",
+       "es":""
+    },
+    {
+       "skill_name":"Ice Resistance",
+       "name":"Ice Res Jewel 1",
+       "es":""
+    },
+    {
+       "skill_name":"Thunder Resistance",
+       "name":"Thunder Res Jewel 1",
+       "es":""
+    },
+    {
+       "skill_name":"Dragon Resistance",
+       "name":"Dragon Res Jewel 1",
+       "es":""
+    },
+    {
+       "skill_name":"Blight Resistance",
+       "name":"Resistor Jewel 2",
+       "es":""
+    },
+    {
+       "skill_name":"Poison Resistance",
+       "name":"Antidote Jewel 1",
+       "es":""
+    },
+    {
+       "skill_name":"Paralysis Resistance",
+       "name":"Antipara Jewel 1",
+       "es":""
+    },
+    {
+       "skill_name":"Sleep Resistance",
+       "name":"Pep Jewel 1",
+       "es":""
+    },
+    {
+       "skill_name":"Stun Resistance",
+       "name":"Steadfast Jewel 1",
+       "es":""
+    },
+    {
+       "skill_name":"Muck Resistance",
+       "name":"Muck Jewel 1",
+       "es":""
+    },
+    {
+       "skill_name":"Blast Resistance",
+       "name":"Antiblast Jewel 1",
+       "es":""
+    },
+    {
+       "skill_name":"Botanist",
+       "name":"Botany Jewel 1",
+       "es":""
+    },
+    {
+       "skill_name":"Geologist",
+       "name":"Geology Jewel 1",
+       "es":""
+    },
+    {
+       "skill_name":"Partbreaker",
+       "name":"Destroyer Jewel 2",
+       "es":""
+    },
+    {
+       "skill_name":"Good Luck",
+       "name":"Fate Jewel 3",
+       "es":""
+    },
+    {
+       "skill_name":"Speed Sharpening",
+       "name":"Grinder Jewel 1",
+       "es":""
+    },
+    {
+       "skill_name":"Bombardier",
+       "name":"Bomber Jewel 1",
+       "es":""
+    },
+    {
+       "skill_name":"Mushroomancer",
+       "name":"Fungiform Jewel 3",
+       "es":""
+    },
+    {
+       "skill_name":"Item Prolonger",
+       "name":"Enduring Jewel 2",
+       "es":""
+    },
+    {
+       "skill_name":"Wide-Range",
+       "name":"Friendship Jewel 2",
+       "es":""
+    },
+    {
+       "skill_name":"Free Meal",
+       "name":"Satiated Jewel 1",
+       "es":""
+    },
+    {
+       "skill_name":"Heroics",
+       "name":"Potential Jewel 2",
+       "es":""
+    },
+    {
+       "skill_name":"Fortify",
+       "name":"Fortitude Jewel 2",
+       "es":""
+    },
+    {
+       "skill_name":"Flinch Free",
+       "name":"Brace Jewel 1",
+       "es":""
+    },
+    {
+       "skill_name":"Jump Master",
+       "name":"Leap Jewel 3",
+       "es":""
+    },
+    {
+       "skill_name":"Carving Pro",
+       "name":"Carver Jewel 1",
+       "es":""
+    },
+    {
+       "skill_name":"Hunger Resistance",
+       "name":"Hungerless Jewel 1",
+       "es":""
+    },
+    {
+       "skill_name":"Leap of Faith",
+       "name":"Dive Jewel 1",
+       "es":""
+    },
+    {
+       "skill_name":"Diversion",
+       "name":"Diversion Jewel 1",
+       "es":""
+    },
+    {
+       "skill_name":"Master Mounter",
+       "name":"Rodeo Jewel 2",
+       "es":""
+    },
+    {
+       "skill_name":"Wirebug Whisperer",
+       "name":"Wirebug Jewel 2",
+       "es":""
+    },
+    {
+       "skill_name":"Wall Runner",
+       "name":"Wall Run Jewel 2",
+       "es":""
+    },
+    {
+       "skill_name":"Counterstrike",
+       "name":"Counter Jewel 2",
+       "es":""
+    },
+    {
+       "skill_name":"Rapid Morph",
+       "name":"Quickswitch Jewel 2",
+       "es":""
+    },
+    {
+       "skill_name":"Hellfire Cloak",
+       "name":"Hellfire Jewel 3",
+       "es":""
+    }
+]

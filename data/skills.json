@@ -1,0 +1,446 @@
+[
+    {
+       "name":"Attack Boost",
+       "es":"Ataque"
+    },
+    {
+       "name":"Agitator",
+       "es":""
+    },
+    {
+       "name":"Peak Performance",
+       "es":""
+    },
+    {
+       "name":"Resentment",
+       "es":""
+    },
+    {
+       "name":"Resuscitate",
+       "es":""
+    },
+    {
+       "name":"Critical Eye",
+       "es":""
+    },
+    {
+       "name":"Critical Boost",
+       "es":""
+    },
+    {
+       "name":"Weakness Exploit",
+       "es":""
+    },
+    {
+       "name":"Latent Power",
+       "es":""
+    },
+    {
+       "name":"Maximum Might",
+       "es":""
+    },
+    {
+       "name":"Critical Element",
+       "es":""
+    },
+    {
+       "name":"Masters Touch",
+       "es":""
+    },
+    {
+       "name":"Fire Attack",
+       "es":""
+    },
+    {
+       "name":"Water Attack",
+       "es":""
+    },
+    {
+       "name":"Ice Attack",
+       "es":""
+    },
+    {
+       "name":"Thunder Attack",
+       "es":""
+    },
+    {
+       "name":"Dragon Attack",
+       "es":""
+    },
+    {
+       "name":"Poison Attack",
+       "es":""
+    },
+    {
+       "name":"Paralysis Attack",
+       "es":""
+    },
+    {
+       "name":"Sleep Attack",
+       "es":""
+    },
+    {
+       "name":"Blast Attack",
+       "es":""
+    },
+    {
+       "name":"Handicraft",
+       "es":""
+    },
+    {
+       "name":"Razor Sharp",
+       "es":""
+    },
+    {
+       "name":"Spare Shot",
+       "es":""
+    },
+    {
+       "name":"Protective Polish",
+       "es":""
+    },
+    {
+       "name":"Minds Eye",
+       "es":""
+    },
+    {
+       "name":"Ballistics",
+       "es":""
+    },
+    {
+       "name":"Bludgeoner",
+       "es":""
+    },
+    {
+       "name":"Bow Charge Plus",
+       "es":""
+    },
+    {
+       "name":"Focus",
+       "es":""
+    },
+    {
+       "name":"Power Prolonger",
+       "es":""
+    },
+    {
+       "name":"Marathon Runner",
+       "es":""
+    },
+    {
+       "name":"Constitution",
+       "es":""
+    },
+    {
+       "name":"Stamina Surge",
+       "es":""
+    },
+    {
+       "name":"Guard",
+       "es":""
+    },
+    {
+       "name":"Guard Up",
+       "es":""
+    },
+    {
+       "name":"Offensive Guard",
+       "es":""
+    },
+    {
+       "name":"Critical Draw",
+       "es":""
+    },
+    {
+       "name":"Punishing Draw",
+       "es":""
+    },
+    {
+       "name":"Quick Sheathe",
+       "es":""
+    },
+    {
+       "name":"Slugger",
+       "es":""
+    },
+    {
+       "name":"Stamina Thief",
+       "es":""
+    },
+    {
+       "name":"Affinity Sliding",
+       "es":""
+    },
+    {
+       "name":"Horn Maestro",
+       "es":""
+    },
+    {
+       "name":"Artillery",
+       "es":""
+    },
+    {
+       "name":"Load Shells",
+       "es":""
+    },
+    {
+       "name":"Special Ammo Boost",
+       "es":""
+    },
+    {
+       "name":"Normal/Rapid Up",
+       "es":""
+    },
+    {
+       "name":"Pierce Up",
+       "es":""
+    },
+    {
+       "name":"Spread Up",
+       "es":""
+    },
+    {
+       "name":"Ammo Up",
+       "es":""
+    },
+    {
+       "name":"Reload Speed",
+       "es":""
+    },
+    {
+       "name":"Recoil Down",
+       "es":""
+    },
+    {
+       "name":"Steadiness",
+       "es":""
+    },
+    {
+       "name":"Rapid Fire Up",
+       "es":""
+    },
+    {
+       "name":"Defense Boost",
+       "es":""
+    },
+    {
+       "name":"Divine Blessing",
+       "es":""
+    },
+    {
+       "name":"Recovery Up",
+       "es":""
+    },
+    {
+       "name":"Recovery Speed",
+       "es":""
+    },
+    {
+       "name":"Speed Eating",
+       "es":""
+    },
+    {
+       "name":"Earplugs",
+       "es":""
+    },
+    {
+       "name":"Windproof",
+       "es":""
+    },
+    {
+       "name":"Tremor Resistance",
+       "es":""
+    },
+    {
+       "name":"Bubbly Dance",
+       "es":""
+    },
+    {
+       "name":"Evade Window",
+       "es":""
+    },
+    {
+       "name":"Evade Extender",
+       "es":""
+    },
+    {
+       "name":"Fire Resistance",
+       "es":""
+    },
+    {
+       "name":"Water Resistance",
+       "es":""
+    },
+    {
+       "name":"Ice Resistance",
+       "es":""
+    },
+    {
+       "name":"Thunder Resistance",
+       "es":""
+    },
+    {
+       "name":"Dragon Resistance",
+       "es":""
+    },
+    {
+       "name":"Blight Resistance",
+       "es":""
+    },
+    {
+       "name":"Poison Resistance",
+       "es":""
+    },
+    {
+       "name":"Paralysis Resistance",
+       "es":""
+    },
+    {
+       "name":"Sleep Resistance",
+       "es":""
+    },
+    {
+       "name":"Stun Resistance",
+       "es":""
+    },
+    {
+       "name":"Muck Resistance",
+       "es":""
+    },
+    {
+       "name":"Blast Resistance",
+       "es":""
+    },
+    {
+       "name":"Botanist",
+       "es":""
+    },
+    {
+       "name":"Geologist",
+       "es":""
+    },
+    {
+       "name":"Partbreaker",
+       "es":""
+    },
+    {
+       "name":"Capture Master",
+       "es":""
+    },
+    {
+       "name":"Carving Master",
+       "es":""
+    },
+    {
+       "name":"Good Luck",
+       "es":""
+    },
+    {
+       "name":"Speed Sharpening",
+       "es":""
+    },
+    {
+       "name":"Bombardier",
+       "es":""
+    },
+    {
+       "name":"Mushroomancer",
+       "es":""
+    },
+    {
+       "name":"Item Prolonger",
+       "es":""
+    },
+    {
+       "name":"Wide-Range",
+       "es":""
+    },
+    {
+       "name":"Free Meal",
+       "es":""
+    },
+    {
+       "name":"Heroics",
+       "es":""
+    },
+    {
+       "name":"Fortify",
+       "es":""
+    },
+    {
+       "name":"Flinch Free",
+       "es":""
+    },
+    {
+       "name":"Jump Master",
+       "es":""
+    },
+    {
+       "name":"Carving Pro",
+       "es":""
+    },
+    {
+       "name":"Hunger Resistance",
+       "es":""
+    },
+    {
+       "name":"Leap of Faith",
+       "es":""
+    },
+    {
+       "name":"Diversion",
+       "es":""
+    },
+    {
+       "name":"Master Mounter",
+       "es":""
+    },
+    {
+       "name":"Chameleos Blessing",
+       "es":""
+    },
+    {
+       "name":"Kushala Blessing",
+       "es":""
+    },
+    {
+       "name":"Teostra Blessing",
+       "es":""
+    },
+    {
+       "name":"Dragonheart",
+       "es":""
+    },
+    {
+       "name":"Wirebug Whisperer",
+       "es":""
+    },
+    {
+       "name":"Wall Runner",
+       "es":""
+    },
+    {
+       "name":"Counterstrike",
+       "es":""
+    },
+    {
+       "name":"Rapid Morph",
+       "es":""
+    },
+    {
+       "name":"Hellfire Cloak",
+       "es":""
+    },
+    {
+       "name":"Wind Alignment",
+       "es":""
+    },
+    {
+       "name":"Thunder Alignment",
+       "es":""
+    },
+    {
+       "name":"Stormsoul",
+       "es":""
+    }
+]
